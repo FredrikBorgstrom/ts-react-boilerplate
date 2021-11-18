@@ -5,6 +5,7 @@ const App = (): JSX.Element => {
     <div>
       <h1>Popup Page</h1>
       <p>If you are seeing this, React is working!</p>
+      <p>{2 + 2}</p>
     </div>
   )
 }
