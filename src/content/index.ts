@@ -2,6 +2,6 @@ import { changePageBackground } from "./pageActions";
 
 console.log('content script');
 
-changePageBackground();
+// changePageBackground();
 
-//document.body.style.backgroundColor = '#0f0';
+// document.body.style.backgroundColor = '#0f0';

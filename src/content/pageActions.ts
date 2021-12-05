@@ -1,3 +1,3 @@
 
 
-export const changePageBackground = () => document.body.style.backgroundColor = '#ff0';
+export const changePageBackground = () => document.body.style.backgroundColor = '#0f0';
